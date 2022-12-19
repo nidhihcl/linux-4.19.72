@@ -1,0 +1,12 @@
+{
+  "timezone": "America/New_York",
+  "schedule": "every 2 minutes",
+  "lockFileMaintenance": {
+    "enabled": true,
+    "schedule": "every 2 minutes"
+  },
+  "packageRules": [{
+    "packageNames": [],
+    "schedule": "every 2 minutes"
+  }]
+}
